@@ -1,5 +1,7 @@
 # go-hde
 
+[![Go Tests with CGo](https://github.com/can1357/go-hde/actions/workflows/test.yml/badge.svg)](https://github.com/can1357/go-hde/actions/workflows/test.yml)
+
 A high-performance x86/x86-64 instruction decoder library written in Go.
 
 ## Overview
